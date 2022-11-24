@@ -24,11 +24,11 @@ The JavaScript key methods may be applied:
 
 
 - classList
---> Return CSS classnames 'btn' of element
+--> Return CSS classnames 'btn' of element.
 
 
 - textContent
---> Return the specified text content
+--> Return the specified text content like '0' from the id 'value'
 
 
 - If else statement
@@ -37,7 +37,7 @@ The JavaScript key methods may be applied:
 
 
 - contains()
---> Returns true if a node is a descendant of a node, and false if not
+--> Returns true if a node is a descendant of a node, and false if not.
 
 
 That's a wrap!
