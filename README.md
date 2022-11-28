@@ -1,7 +1,7 @@
 JavaScript Project --
 # Counter
 
-In this JavaScript project, we're going to create a counter that counts infinitely in both positive and negative values. It changes colour based on either positive or negative number. Creating a simple counter like this requires the application of DOM manipulation, good thing is you'll get to practice and get the hang of using DOM in JavaScript.
+In this JavaScript project, we're going to create a counter that counts infinitely in both positive and negative values. It changes colour based on either positive or negative number. Creating a simple counter like this requires the application of DOM manipulation, good thing is you'll get to practice and get the hang of using DOM in JavaScript. [Counter](https://carson3377.github.io/Counter/counter.html)
 
 Credit: FreeCodeCamp.org
 
